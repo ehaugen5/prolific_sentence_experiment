@@ -1,1 +1,1 @@
-# prolific_sentence_experiment
+# Typicality-Experiment
