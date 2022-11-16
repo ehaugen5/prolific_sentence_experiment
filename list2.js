@@ -24,7 +24,7 @@
         "Sentence": "You drop a brick on a chocolate.",
         "Condition": "Atypical_Intact",
         "Correct": "N",
-        "Picture": "chocolatevarAN.jpeg",
+        "Picture": "chocolatebarAN.jpeg",
         "List": 2
     },
     {
@@ -115,7 +115,7 @@
         "Sentence": "You drop a brick on a potato chip.",
         "Condition": "Typical_Intact",
         "Correct": "N",
-        "Picture": "chipN .jpeg",
+        "Picture": "chipN.jpeg",
         "List": 2
     },
     {
@@ -164,7 +164,7 @@
         "Sentence": "You drop a brick on a cheeseburger.",
         "Condition": "Atypical_Smashed",
         "Correct": "S",
-        "Picture": "cheeseburgerAS.JPG",
+        "Picture": "burgerS.JPG",
         "List": 2
     },
     {
