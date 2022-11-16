@@ -24,7 +24,7 @@
         "Sentence": "You drop a brick on a chocolate.",
         "Condition": "Typical_Intact",
         "Correct": "N",
-        "Picture": "chocolatebarN.jpg",
+        "Picture": "chocolateN.jpg",
         "List": 4
     },
     {
@@ -136,7 +136,7 @@
         "Sentence": "You drop a brick on an apple.",
         "Condition": "Typical_Smashed",
         "Correct": "S",
-        "Picture": "appleS.jpeg",
+        "Picture": "appleS.jpg",
         "List": 4
     },
     {
