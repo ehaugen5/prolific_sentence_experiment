@@ -44,42 +44,42 @@
     {
         "Sentence": "You drop a brick on a egg.",
         "Condition": "Typical_Intact",
-        "Correct": "N",
+        "Correct": "S",
         "Picture": "eggN.jpg",
         "List": 1
     },
     {
         "Sentence": "You drop a brick on an ice cream.",
         "Condition": "Typical_Intact",
-        "Correct": "N",
+        "Correct": "S",
         "Picture": "icecreamN.jpg",
         "List": 1
     },
     {
         "Sentence": "You drop a brick on a muffin.",
         "Condition": "Typical_Intact",
-        "Correct": "N",
+        "Correct": "S",
         "Picture": "muffinN.jpg",
         "List": 1
     },
     {
         "Sentence": "You drop a brick on a strawberry.",
         "Condition": "Typical_Intact",
-        "Correct": "N",
+        "Correct": "S",
         "Picture": "strawberryN.jpg",
         "List": 1
     },
     {
         "Sentence": "You drop a brick on a sushi.",
         "Condition": "Typical_Intact",
-        "Correct": "N",
+        "Correct": "S",
         "Picture": "sushiN.jpg",
         "List": 1
     },
     {
         "Sentence": "You drop a brick on a tomato.",
         "Condition": "Typical_Intact",
-        "Correct": "N",
+        "Correct": "S",
         "Picture": "tomatoN.jpg",
         "List": 1
     },
@@ -128,42 +128,42 @@
     {
         "Sentence": "You drop a brick on a watermelon.",
         "Condition": "Atypical_Intact",
-        "Correct": "N",
+        "Correct": "S",
         "Picture": "watermelonAN.JPG",
         "List": 1
     },
     {
         "Sentence": "You drop a brick on an apple.",
         "Condition": "Atypical_Intact",
-        "Correct": "N",
+        "Correct": "S",
         "Picture": "appleAN.JPG",
         "List": 1
     },
     {
         "Sentence": "You drop a brick on a pomegranate.",
         "Condition": "Atypical_Intact",
-        "Correct": "N",
+        "Correct": "S",
         "Picture": "pomegranateAN.JPG",
         "List": 1
     },
     {
         "Sentence": "You drop a brick on a kiwi.",
         "Condition": "Atypical_Intact",
-        "Correct": "N",
+        "Correct": "S",
         "Picture": "kiwiAN.jpeg",
         "List": 1
     },
     {
         "Sentence": "You drop a brick on a raspberry.",
         "Condition": "Atypical_Intact",
-        "Correct": "N",
+        "Correct": "S",
         "Picture": "raspberryAN.jpeg",
         "List": 1
     },
     {
         "Sentence": "You drop a brick on a cheeseburger.",
         "Condition": "Atypical_Intact",
-        "Correct": "N",
+        "Correct": "S",
         "Picture": "burgerAN.jpeg",
         "List": 1
     },
