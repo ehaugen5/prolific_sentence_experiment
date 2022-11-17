@@ -142,8 +142,8 @@
      'TV.jpg',
      'vase.jpg',
      'wallet.jpg',
-     'watch.jpg'
-     'ceramicpla,te.jpg',
+     'watch.jpg',
+     'ceramicplate.jpg',
 
 
 ]
