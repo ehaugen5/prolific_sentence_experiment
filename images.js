@@ -144,6 +144,12 @@
      'wallet.jpg',
      'watch.jpg',
      'ceramicplate.jpg',
+     'taco.jpg',
+     'avocado.jpg',
+     'computer.jpg',
+     'mug.jpg',
+     'shirt.jpg',
+     'volleyball.jpg'
 
 
 ]
