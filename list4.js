@@ -203,17 +203,17 @@
         "List": 4
     },
     {
-        "Sentence": "You see how a boy is peeling a banana",
+        "Sentence": "You see how a boy is playing with a toy tractor",
         "Condition": "filler",
         "Correct": "S",
-        "Picture": "banana.jpg",
+        "Picture": "tractor.jpg",
         "List": 4
     },
     {
-        "Sentence": "You see how an elephant is eating a watermelon",
+        "Sentence": "You see how an elephant is wearing a skirt",
         "Condition": "filler",
         "Correct": "S",
-        "Picture": "watermelon.jpg",
+        "Picture": "skirt.jpg",
         "List": 4
     },
     {
@@ -311,7 +311,7 @@
         "Sentence": "You drop a needle on the mouse pad",
         "Condition": "filler",
         "Correct": "N",
-        "Picture": "chocolate.jpg",
+        "Picture": "hairbrush.jpg",
         "List": 4
     },
     {
@@ -427,10 +427,10 @@
         "List": 4
     },
     {
-        "Sentence": "You see how a parrot is eating an apple",
+        "Sentence": "You see how a parrot is flying in the rainforest",
         "Condition": "filler",
         "Correct": "N",
-        "Picture": "shirt.jpg",
+        "Picture": "shirt1.jpg",
         "List": 4
     },
     {
