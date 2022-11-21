@@ -136,7 +136,7 @@
         "Sentence": "You drop a brick on an apple.",
         "Condition": "Typical_Intact",
         "Correct": "S",
-        "Picture": "appleN.jpg",
+        "Picture": "appleN.jpeg",
         "List": 3
     },
     {
